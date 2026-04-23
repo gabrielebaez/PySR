@@ -1,5 +1,17 @@
 # Changelog
 
+## [2.0.1](https://github.com/gabrielebaez/PySR/compare/v2.0.0...v2.0.1) (2026-04-23)
+
+
+### Bug Fixes
+
+* correct type in elementwise loss validation ([#1184](https://github.com/gabrielebaez/PySR/issues/1184)) ([912c4c2](https://github.com/gabrielebaez/PySR/commit/912c4c22e47428e5209067d1aa1c30cf52ed4f11))
+
+
+### Documentation
+
+* add implied volatility showcase paper ([#1172](https://github.com/gabrielebaez/PySR/issues/1172)) ([c435527](https://github.com/gabrielebaez/PySR/commit/c435527ccddb89a7a4e2835fb064679b3ed3e537))
+
 ## [2.0.0a1] (2025-10-08)
 
 This is an _alpha_ release of v2.0.0. There will still be changes before the release of v2.0.0, likely including new hyperparameter defaults.
